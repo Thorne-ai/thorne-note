@@ -1,3 +1,6 @@
 views:
   - type: table
-    name: 表格
+    name: 知识总览
+    sort:
+      - property: file.name
+        direction: ASC

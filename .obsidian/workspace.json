@@ -11,13 +11,14 @@
             "id": "d6f308a0e260726c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "split-diff-view",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "aFile": "30-领域/领域索引.md",
+                "bFile": "30-领域/领域索引.md",
+                "aRef": ""
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "diff",
+              "title": "Diff: 领域索引  (Working Tree)"
             }
           }
         ]
@@ -98,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +178,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d7c1c13dc8aa2fd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
           }
         ],
         "currentTab": 5
@@ -202,7 +212,32 @@
   },
   "active": "d6f308a0e260726c",
   "lastOpenFiles": [
+    "99-模板/读书笔记.md",
+    "99-模板/会议记录.md",
+    "99-模板/每日笔记.md",
+    "99-模板/通用笔记.md",
+    "未命名.base",
+    "10-日志/每日笔记.md",
+    "00-收件箱/收件箱.md",
+    "工作流说明.md",
+    "首页.md",
+    "导入指南.md",
+    "99-模板/周复盘.md",
+    "知识总览.base",
+    "40-资源/绘图/绘图索引.md",
+    "40-资源/绘图",
     "欢迎.md",
-    "未命名.base"
+    "50-归档/归档说明.md",
+    "40-资源/资源索引.md",
+    "30-领域/领域索引.md",
+    "20-项目/项目索引.md",
+    "99-模板/项目.md",
+    "99-模板",
+    "90-附件",
+    "50-归档",
+    "40-资源",
+    "30-领域",
+    "20-项目",
+    "10-日志"
   ]
 }

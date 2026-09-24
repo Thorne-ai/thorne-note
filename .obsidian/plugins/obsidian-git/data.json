@@ -1,6 +1,6 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "笔记备份: {{date}}",
+  "autoCommitMessage": "笔记备份: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
@@ -13,8 +13,8 @@
   "squashCommitsBeforePush": false,
   "disablePopups": false,
   "showErrorNotices": true,
-  "disablePopupsForNoChanges": false,
-  "listChangedFilesInMessageBody": false,
+  "disablePopupsForNoChanges": true,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
@@ -25,7 +25,7 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -39,9 +39,9 @@
   "diffTimeout": 50,
   "autoStageOnEmptyIndex": true,
   "hunks": {
-    "showSigns": false,
-    "hunkCommands": false,
-    "statusBar": "disabled"
+    "showSigns": true,
+    "hunkCommands": true,
+    "statusBar": "added-and-removed"
   },
   "lineAuthor": {
     "show": false,

@@ -1,1 +1,22 @@
-{}
+{
+  "attachmentFolderPath": "90-附件",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-收件箱",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": true,
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showInlineTitle": true,
+  "showFrontmatter": true,
+  "tabSize": 2,
+  "useTab": false
+}
