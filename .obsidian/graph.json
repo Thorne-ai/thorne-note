@@ -8,42 +8,42 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"00-收件箱\"",
+      "query": "path:\"00-📥 收件箱\"",
       "color": {
         "a": 1,
         "rgb": 16753920
       }
     },
     {
-      "query": "path:\"10-日志\"",
+      "query": "path:\"10-📆 日志\"",
       "color": {
         "a": 1,
         "rgb": 5740132
       }
     },
     {
-      "query": "path:\"20-项目\"",
+      "query": "path:\"20-🚀 项目\"",
       "color": {
         "a": 1,
         "rgb": 7628776
       }
     },
     {
-      "query": "path:\"30-领域\"",
+      "query": "path:\"30-🧭 领域\"",
       "color": {
         "a": 1,
         "rgb": 43775
       }
     },
     {
-      "query": "path:\"40-资源\"",
+      "query": "path:\"40-📚 资源\"",
       "color": {
         "a": 1,
         "rgb": 12632256
       }
     },
     {
-      "query": "path:\"50-归档\"",
+      "query": "path:\"50-📦 归档\"",
       "color": {
         "a": 1,
         "rgb": 8421504

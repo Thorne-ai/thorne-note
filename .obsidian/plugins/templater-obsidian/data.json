@@ -1,7 +1,7 @@
 {
   "data_version": 2,
   "command_timeout": 5,
-  "templates_folder": "99-模板",
+  "templates_folder": "99-🧩 模板",
   "templates_pairs": [],
   "trigger_on_file_creation_mode": "none",
   "auto_jump_to_cursor": true,
@@ -16,7 +16,7 @@
   "startup_templates": [],
   "intellisense_render": "1",
   "ignore_folders_on_creation": [
-    "90-附件",
-    "50-归档"
+    "90-🖇 附件",
+    "50-📦 归档"
   ]
 }

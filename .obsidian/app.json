@@ -1,7 +1,7 @@
 {
-  "attachmentFolderPath": "90-附件",
+  "attachmentFolderPath": "90-🖇 附件",
   "newFileLocation": "folder",
-  "newFileFolderPath": "00-收件箱",
+  "newFileFolderPath": "00-📥 收件箱",
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,

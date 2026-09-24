@@ -36,28 +36,12 @@ body {
 }
 
 /* File explorer: colored, recognizable PARA-style areas. */
-.nav-folder-title-content::before {
-  display: inline-block;
-  width: 1.45em;
-  margin-right: 0.2em;
-  text-align: center;
-}
-
-.nav-folder-title[data-path="00-收件箱"] .nav-folder-title-content::before { content: "📥"; }
-.nav-folder-title[data-path="10-日志"] .nav-folder-title-content::before { content: "📆"; }
-.nav-folder-title[data-path="20-项目"] .nav-folder-title-content::before { content: "🚀"; }
-.nav-folder-title[data-path="30-领域"] .nav-folder-title-content::before { content: "🧭"; }
-.nav-folder-title[data-path="40-资源"] .nav-folder-title-content::before { content: "📚"; }
-.nav-folder-title[data-path="50-归档"] .nav-folder-title-content::before { content: "📦"; }
-.nav-folder-title[data-path="90-附件"] .nav-folder-title-content::before { content: "🖇️"; }
-.nav-folder-title[data-path="99-模板"] .nav-folder-title-content::before { content: "🧩"; }
-
-.nav-folder-title[data-path="00-收件箱"] { color: var(--thorne-amber); }
-.nav-folder-title[data-path="10-日志"] { color: var(--thorne-cyan); }
-.nav-folder-title[data-path="20-项目"] { color: var(--thorne-violet); }
-.nav-folder-title[data-path="30-领域"] { color: var(--thorne-blue); }
-.nav-folder-title[data-path="40-资源"] { color: var(--thorne-rose); }
-.nav-folder-title[data-path="50-归档"] { color: var(--text-muted); }
+.nav-folder-title[data-path="00-📥 收件箱"] { color: var(--thorne-amber); }
+.nav-folder-title[data-path="10-📆 日志"] { color: var(--thorne-cyan); }
+.nav-folder-title[data-path="20-🚀 项目"] { color: var(--thorne-violet); }
+.nav-folder-title[data-path="30-🧭 领域"] { color: var(--thorne-blue); }
+.nav-folder-title[data-path="40-📚 资源"] { color: var(--thorne-rose); }
+.nav-folder-title[data-path="50-📦 归档"] { color: var(--text-muted); }
 
 /* Dashboard layout, only on 首页. */
 .thorne-home .inline-title {
