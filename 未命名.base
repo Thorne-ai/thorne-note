@@ -1,6 +1,0 @@
-views:
-  - type: table
-    name: 知识总览
-    sort:
-      - property: file.name
-        direction: ASC
